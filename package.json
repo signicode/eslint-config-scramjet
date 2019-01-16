@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-scramjet",
+  "version": "1.0.0",
+  "description": "Eslint rules for scramjet",
+  "main": "eslint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signicode/scramjet-hello-module.git"
+  },
+  "author": "Signicode <open-source@signicode.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/signicode/scramjet-hello-module/issues"
+  },
+  "homepage": "https://github.com/signicode/scramjet-hello-module#readme"
+}
