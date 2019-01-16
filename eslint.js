@@ -1,8 +1,6 @@
 module.exports = {
     "plugins": ["node"],
-    "recommended": {
-        "extends": ["eslint:recommended", "plugin:node/recommended"],
-    },
+    "extends": ["eslint:recommended", "plugin:node/recommended"],
     "rules": {
         "node/exports-style": ["error", "module.exports"],
         "quotes": ["error", "double"],
