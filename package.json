@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-scramjet",
+  "name": "eslint-config-scramjet",
   "version": "1.0.0",
   "description": "Eslint rules for scramjet",
   "main": "eslint.js",
