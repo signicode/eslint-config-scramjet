@@ -4,7 +4,7 @@
   "description": "Eslint rules for scramjet",
   "main": "eslint.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Warning: no test specified\""
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,6 @@
   "dependencies": {
     "eslint": "^5.16.0",
     "eslint-config-defaults": "^9.0.0",
-    "eslint-plugin-node": "^8.0.1"
+    "eslint-plugin-node": "^9.0.0"
   }
 }
