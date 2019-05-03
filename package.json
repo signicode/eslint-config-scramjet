@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/signicode/scramjet-hello-module.git"
+    "url": "git+https://github.com/signicode/eslint-config-scramjet.git"
   },
   "author": "Signicode <open-source@signicode.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/signicode/scramjet-hello-module/issues"
+    "url": "https://github.com/signicode/eslint-config-scramjet/issues"
   },
-  "homepage": "https://github.com/signicode/scramjet-hello-module#readme",
+  "homepage": "https://github.com/signicode/eslint-config-scramjet#readme",
   "dependencies": {
     "eslint": "^5.16.0",
     "eslint-config-defaults": "^9.0.0",
